@@ -1,2 +1,3 @@
 name: Uncle Saha, Coway Malaysia
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
